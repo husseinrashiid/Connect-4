@@ -1,4 +1,4 @@
-CMPS 241–Systems Programming 
+
 Connect 4
 Members : Hussein Rashid - Karim Abdallah
 This project implements a two-player Connect Four game in C, played on a 6×7 grid through a console interface.
