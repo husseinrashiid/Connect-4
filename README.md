@@ -10,6 +10,7 @@ It can be played in 5 ways:
 3) Player vs Medium Bot
 4) Player vs Hard Bot 
 5) Multiplayer via network.
+-------------------------------
 Alpine (Linux) was used to make it run automatically at VM startup (without login).  
 ----------
 
